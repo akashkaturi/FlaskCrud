@@ -1,2 +1,4 @@
 flask-sqlalchemy==3.0.3
 Flask
+docker-compose==1.29.2
+flask-sqlalchemy==3.0.3
